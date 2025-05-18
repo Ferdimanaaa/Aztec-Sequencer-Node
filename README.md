@@ -35,7 +35,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 ## 2. Run this Auto script
 * Auto Install:
 ```
-curl -O https://raw.githubusercontent.com/RyzenXT-hub/Aztec/main/install.sh && chmod u+x install.sh && ./install.sh
+curl -O https://raw.githubusercontent.com/Ferdimanaaa/Aztec-Sequencer-Node/refs/heads/main/install.sh && chmod u+x install.sh && ./install.sh
 ```
 ## 3. TroubleShooting 
 * Check logs
